@@ -9,4 +9,4 @@ Ich habe meine Passwörter auf dieser [Webseite](https://www.passwortcheck.ch/) 
 ## - 04 Verschlüsseln Sie sensitive Inhalte
 Ich habe nach diesem Schritt meine Geräteverschlüsselng aktiviert sowie auch mein BitLocker. Zusätzlich werde ich auch meine E-Mails die einen wichtigen Inhalt haben verschlüsseln.
 ## - 05 Sichern Sie Informationen und löschen Sie Daten vollständig
-
+Ich werde regelmässig Backups durchführen und auch Sicherheitskopien behalten. Wenn ich mein Laptop entsorge oder verkaufe, lösche ich "alle" Informationen/ Daten indem ich spezielle Softwares wie z.B [DBAN](https://dban.org/) oder [](https://www.heise.de/download/product/partedmagic-47255) benutzte.

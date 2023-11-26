@@ -23,4 +23,6 @@ Ja, ich werde weiterhin die Vorsichtsregeln beachten.
 ## - 08 Deaktivieren Sie drahtlose Schnittstellen
 Ja, ich  deaktiviere drahtlose Schnittstellen(Bsp. Bluetooth), falls ich Sie nicht benutzte.
 ## - 09 Schränken Sie die Synchronisierung ein
+Ich bin auf meine Einstellungen gegangen und klickte auf die Option iCloud und deaktivierte die automatische Synchronisation der Apps.
 ## - 10 Benutzen Sie fürs Login einen zweiten Faktor
+Ja, ich habe bereits bei den meisten Logins die two-factor authentication (2FA) aktiviert.

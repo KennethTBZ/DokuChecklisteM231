@@ -18,10 +18,10 @@ Ja, bei einigen Geräten und Apps könnte ich die Daten aus der Ferne löschen, 
 Es wäre schwierig, meinen Laptop zu orten, jedoch könnte ich mein Handy mit der FindMy App lokalisieren, sodass meine Familie den Standort meines Handys sehen kann.
 
 #### - gegen welche Gefahren sind meine Backups gesichert? (Geräteverlust, Haus-, Gebäudeschaden [Brand, Hochwasser], Trojaner ...)
-
+Meine Backups bieten Schutz gegen mögliche Gefahren wie Geräteverlust, Schäden am Wohnort (wie Brand oder Hochwasser) sowie bestimmte Formen von Malware und Trojanern.
 #### - Wie beurteilen Sie Ihren Zeitaufwand?
-
+Mein Zeitaufwand für diese Sicherheitsmaßnahmen variiert zwischen 2-3 Tagen bis zu einer Woche.
 #### - Was ist meine Konsequenz aus dem Experiment?
-
+Als Konsequenz aus diesem Experiment werde ich regelmäßigere Backups erstellen und zusätzliche Sicherheitsmaßnahmen ergreifen.
 #### - Wie beurteilen Sie diese Übung?
 Ich finde diese Übung ist noch ziemlich wichtig, da man bemerkt wie viel Schaden in so einem Fall mögich ist. Jedoch finde ich ,dass es zu viele Fragen hat
